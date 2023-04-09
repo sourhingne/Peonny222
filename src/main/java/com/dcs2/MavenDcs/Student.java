@@ -16,5 +16,8 @@ public class Student {
 		this.job = job;
 	}
 	
+	
+	}
+	
 
-}
+
