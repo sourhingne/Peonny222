@@ -112,6 +112,7 @@ public class App
     	.when()
     	.post("https://reqres.in/api/users")
     	.then().log().all();
+    	System.out.println("hii");
     	
     	
     	
